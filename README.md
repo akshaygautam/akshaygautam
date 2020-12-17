@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Akshay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akshaygautam)](https://wakatime.com/@akshaygautam)
-
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaygautam&langs_count=10)](https://github.com/akshaygautam/)
 
 ---
